@@ -19,7 +19,7 @@ var font;
 var vehicles = [];
 
 function preload() {
-  font = loadFont('HelveticaNeueLTStd-MdEx.otf');
+  font = loadFont('ClearfaceStd-Regular.otf');
 }
 
 function setup() {
