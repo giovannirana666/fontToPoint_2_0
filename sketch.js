@@ -57,7 +57,8 @@ function setup() {
   // fill(255);
   // noStroke();
   // text('train', 100, 200);
-
+    
+//aumentare sample aumenta numero punti
   var points_f = font.textToPoints('F', 0, 0, 200, {
     sampleFactor: 0.4
   });
