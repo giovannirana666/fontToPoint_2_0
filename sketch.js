@@ -60,25 +60,25 @@ function setup() {
     
 //aumentare sample aumenta numero punti
   var points_f = font.textToPoints('F', 0, 0, 200, {
-    sampleFactor: 0.4
+    sampleFactor: 1
   });
   var points_i = font.textToPoints('i', 0, 0, 200, {
-    sampleFactor: 0.4
+    sampleFactor: 1
   });
   var points_s = font.textToPoints('s', 0, 0, 200, {
-    sampleFactor: 0.4
+    sampleFactor: 1
   });
   var points_h = font.textToPoints('h', 0, 0, 200, {
-    sampleFactor: 0.4
+    sampleFactor: 1
   });
   var points_n = font.textToPoints('n', 0, 0, 200, {
-    sampleFactor: 0.4
+    sampleFactor: 1
   });
   var points_e = font.textToPoints('e', 0, 0, 200, {
-    sampleFactor: 0.4
+    sampleFactor: 1
   });
   var points_t = font.textToPoints('t', 0, 0, 200, {
-    sampleFactor: 0.4
+    sampleFactor: 1
   });
 
   for (var i = 0; i < points_f.length; i++) {
